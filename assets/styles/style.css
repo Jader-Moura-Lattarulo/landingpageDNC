@@ -99,3 +99,43 @@
     transform: translateY(-7px);
     transition: 0.5s;
 }
+
+#form{
+    text-align: center;
+    margin: 30px;
+}
+
+.form-title{
+    font-size: 25px;
+    color: #383838;
+}
+
+input{
+    width: 413px;
+    height: 40px;
+    background-color: #EAECE5;
+    margin: 13px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+button{
+    width: 315px;
+    height: 40px;
+    background-color: #247BA0;
+    color: #EAECE5;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #318db4;
+    color: white;
+    transform: translateY(-3px);
+    transition: 0.5s;
+    box-shadow: 0px 15px 20px #225970;
+}
