@@ -56,3 +56,46 @@
 #video{
     margin: 50px 25px 50px 100px;
 }
+
+#carousel{
+    background-color: #247BA0;
+    padding: 50px;
+}
+
+#carousel-title{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+#div-cards{
+    margin-top: 25px;
+    display: grid;
+    grid-auto-flow: column;
+}
+
+.card{
+    margin-left: 25px;
+}
+
+#left-arrow{
+    display: none;
+}
+
+.arrow{
+    margin-top: 55%;
+}
+
+#leonardo{
+    display: none;
+}
+
+.arrow{
+    margin-top: 55%;
+    cursor: pointer;
+}
+
+.arrow:hover{
+    transform: translateY(-7px);
+    transition: 0.5s;
+}
