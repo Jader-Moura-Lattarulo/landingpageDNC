@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    font-family: "Inter", sans-serif;
+}
+
+#topmenu{
+    background-image: url(/assets/images/background-topmenu.svg);
+    color: #FFFFFF;
+}
+
+#logo{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#title-topmenu{
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+#txt-topmenu{
+    margin-top: 25px;
+    margin-left: 150px;
+}
+
+#informmationalmenu{
+    background-color: #EAECE5;
+}
