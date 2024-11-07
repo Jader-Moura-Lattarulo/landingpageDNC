@@ -24,7 +24,7 @@
     padding-bottom: 100px;
 }
 
-#informmationalmenu{
+#informationalmenu{
     background-color: #EAECE5;
     display: grid;
     grid-auto-flow: column;
@@ -41,3 +41,18 @@
     align-items: center;
 }
 
+
+#video-section{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+#title-video{
+    color: #247BA0;
+    margin: 50px 25px 0px 0px;
+}
+
+#video{
+    margin: 50px 25px 50px 100px;
+}
